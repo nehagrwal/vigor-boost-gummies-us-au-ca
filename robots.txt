@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/vigor-boost-gummies-us-au-ca/sitemap.xml
+Sitemap: https://vigor-boost-gummies-us-au-ca.vercel.app/sitemap-vercel.xml
+Sitemap: https://vigor-boost-gummies-us-au-ca.pages.dev/sitemap-cloudflare.xml
